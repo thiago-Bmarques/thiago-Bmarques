@@ -1,7 +1,8 @@
-## Hi there 👋
+## olá! eu sou o Thiago Bertocci👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bertocci-marques/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thiagobertocci)
+
 
 ## Tecnologias
 
